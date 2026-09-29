@@ -84,7 +84,7 @@ A full-stack project and task management system.
 `Angular` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO`
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -130,3 +130,4 @@ A full-stack project and task management system.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
 </p>
+-->
